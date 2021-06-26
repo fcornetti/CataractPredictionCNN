@@ -7,4 +7,4 @@ Following the previous link notation, open https://github.com/fcornetti/Cataract
 1. `pathData` = path that points to full_df.csv
 2.  `pathImages` = path that points to preprocessed images
 
-Ppt presentation for illustrative purpose: https://github.com/fcornetti/CataractPredictionCNN/blob/main/CataractPredictionCNN.pptx, that documents the data journey :books:
+`Ppt` presentation for illustrative purpose: https://github.com/fcornetti/CataractPredictionCNN/blob/main/CataractPredictionCNN.pptx, that documents the data journey :books:
