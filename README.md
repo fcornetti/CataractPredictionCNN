@@ -9,4 +9,4 @@ Following the previous link notation, open https://github.com/fcornetti/Cataract
 
 Ppt presentation for illustrative purpose: https://github.com/fcornetti/CataractPredictionCNN/blob/main/CataractPredictionCNN.pptx, that documents the data journey :books:
 
-Please, report me any type of mistake. Suggestions are more than welcome. 🙏
+Please, report me any type of mistake. Suggestions are more than welcome 🙏
