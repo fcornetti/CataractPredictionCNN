@@ -1,6 +1,6 @@
 # CataractPredictionCNN
 
-Challenge addressed: https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k :muscle:
+Challenge addressed: https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k :eyes:
 
 Plug and play approach.
 Following the previous link notation, open colab notebook and change variables:
